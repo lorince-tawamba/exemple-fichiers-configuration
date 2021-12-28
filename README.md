@@ -1,1 +1,1 @@
-# exemple-fichiers-configuration
+# Exemple fichiers de configuration
