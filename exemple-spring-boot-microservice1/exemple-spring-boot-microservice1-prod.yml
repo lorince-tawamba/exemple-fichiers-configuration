@@ -24,4 +24,4 @@ tech:
     demo:
       centralize:
         premiermicroservice:
-          msg: "exemple-spring-boot-microservice1-prod"
+          msg: "EXEMPLE SPRING BOOT MICROSERVICE 1 - PROD"
